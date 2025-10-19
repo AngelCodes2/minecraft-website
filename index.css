@@ -1,3 +1,8 @@
 body {
  font-family: Segoe UI, sans-serif;
 }
+#box1 {
+ width: 90%;
+ length: 25%;
+ background-color: rgb(255,255,255);
+}
